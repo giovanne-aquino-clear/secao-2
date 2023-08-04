@@ -521,6 +521,5 @@ class CalcController {
 
     }
 
-
     
 }
